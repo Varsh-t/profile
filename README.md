@@ -13,7 +13,7 @@
 - Initiated discussions on integrating diffusion models into existing parameterisation schemes, collaborating with stakeholders to potentially mark the first use of generative machine learning in Met Office processes.
 - Full report can be found [here](https://github.com/Varsh-t/generative-ml-atmospheric-models/blob/main/Generative%20ML%20in%20Atmospheric%20Models.pdf).
 
-#### [Iris Classification using Softmax function]
+#### [Iris Classification using Softmax function](https://github.com/Varsh-t/iris_classification/tree/main) 
 
 #### [Matrix Completion Problem] 
 
